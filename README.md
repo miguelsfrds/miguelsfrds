@@ -16,5 +16,5 @@ Sou estudante do curso de Sistemas para Internet no IFPB - Campus Guarabira, com
 
 ## GitHub Stats
 ![Miguel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsfrds&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsfrds&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsfrds&layout=compact&theme=dracula)
 
