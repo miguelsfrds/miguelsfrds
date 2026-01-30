@@ -13,6 +13,7 @@ Sou estudante do curso de Sistemas para Internet no IFPB - Campus Guarabira, com
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF?style=for-the-badge&logo=godot-engine&logoColor=blue">
 </div>
 
 ## GitHub Stats
