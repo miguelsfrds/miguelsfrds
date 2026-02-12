@@ -15,8 +15,3 @@ Sou estudante do curso de Sistemas para Internet no IFPB - Campus Guarabira, com
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF?style=for-the-badge&logo=godot-engine&logoColor=blue">
 </div>
-
-## GitHub Stats
-![Miguel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsfrds&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsfrds&layout=compact&theme=dracula)
-
